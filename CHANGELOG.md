@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`c562195`](https://github.com/stdlib-js/stdlib/commit/c562195df34a35546bcbd17e199802a9dd5e75aa) - **bench:** use correct Makefile for remaining Bradford distribution functions _(by Philipp Burckhardt)_
 -   [`f9ed054`](https://github.com/stdlib-js/stdlib/commit/f9ed05408e320ec9c68f4abe374e95ad0fed0b63) - **feat:** add C implementation for `stats/base/dists/bradford/stdev` _(by Philipp Burckhardt)_
 -   [`a594d58`](https://github.com/stdlib-js/stdlib/commit/a594d58d530900e5f90dab88494520c09f01ee35) - **chore:** adds `opts` [(#6909)](https://github.com/stdlib-js/stdlib/pull/6909) _(by Harsh)_
