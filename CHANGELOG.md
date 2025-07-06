@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-07-06)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`4a955a9`](https://github.com/stdlib-js/stdlib/commit/4a955a9efd250b22c415f2a1bdc13d96f9ebd8d2) - **chore:** clean-up _(by Athan Reines)_
 -   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`c562195`](https://github.com/stdlib-js/stdlib/commit/c562195df34a35546bcbd17e199802a9dd5e75aa) - **bench:** use correct Makefile for remaining Bradford distribution functions _(by Philipp Burckhardt)_
 -   [`f9ed054`](https://github.com/stdlib-js/stdlib/commit/f9ed05408e320ec9c68f4abe374e95ad0fed0b63) - **feat:** add C implementation for `stats/base/dists/bradford/stdev` _(by Philipp Burckhardt)_
@@ -41,8 +42,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
