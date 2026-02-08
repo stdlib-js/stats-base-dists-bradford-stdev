@@ -69,7 +69,7 @@ where `c` is the shape parameter.
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-stdev@v0.1.1-deno/mod.js';
 ```
 
 #### stdev( c )
@@ -117,7 +117,7 @@ v = stdev( -1.5 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-stdev@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
