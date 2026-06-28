@@ -1,5 +1,5 @@
-"use strict";var i=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var s=i(function(q,t){
-var u=require('@stdlib/math-base-special-sqrt/dist'),v=require('@stdlib/stats-base-dists-bradford-variance/dist');function a(e){return u(v(e))}t.exports=a
-});var c=s();module.exports=c;
+"use strict";var u=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(s){throw (r=0, s)}};};var i=u(function(o,t){
+var a=require('@stdlib/math-base-special-sqrt/dist'),n=require('@stdlib/stats-base-dists-bradford-variance/dist');function v(e){return a(n(e))}t.exports=v
+});var c=i();module.exports=c;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
