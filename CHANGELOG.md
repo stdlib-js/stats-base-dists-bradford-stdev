@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-09-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`696ff33`](https://github.com/stdlib-js/stdlib/commit/696ff33c6408a99d389abc1bbf3b09fc03da5bbc) - **test:** migrate `stats/base/dists/bradford/stdev` to ULP-based assertions [(#15332)](https://github.com/stdlib-js/stdlib/pull/15332) _(by Aryan kumar)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`9430db6`](https://github.com/stdlib-js/stdlib/commit/9430db645b6b1d36afb35e2fe3275d9ce4c384b8) - **refactor:** reuse variance implementation for stdev in `stats/base/dists` [(#11370)](https://github.com/stdlib-js/stdlib/pull/11370) _(by Om-A-osc, Athan Reines)_
 -   [`749de6f`](https://github.com/stdlib-js/stdlib/commit/749de6f8c437bf7daad8413ff86175781c934df2) - **bench:** refactor to use string interpolation in `stats/base/dists/bradford` [(#10234)](https://github.com/stdlib-js/stdlib/pull/10234) _(by Vishal Gaikwad)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Athan Reines
 -   Om-A-osc
 -   Philipp Burckhardt
